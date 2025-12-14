@@ -19,9 +19,9 @@ export default function LandingPage({ setActiveSection }) {
       <div className="overlay"></div>
 
       <div className="landing-content">
-        <h1 className="title">Welcome to Elite Hotel Management</h1>
+        <h1 className="title">Unlock Operational Excellence</h1>
         <p className="subtitle">
-          Manage rooms, guests, and bookings effortlessly.
+          Optimize room inventory, elevate guest experiences, and master every booking cycle.
         </p>
 
         <button

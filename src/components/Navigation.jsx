@@ -5,7 +5,7 @@ export const Navigation = ({ activeSection, setActiveSection }) => {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <h1 className="navbar-title">🏨 Hotel Management App</h1>
+        <h1 className="navbar-title">🏨 HotelHQ</h1>
         <ul className="nav-menu">
           <li>
             <button
